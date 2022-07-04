@@ -1,3 +1,9 @@
+---
+layout: default_plus
+title: Equipment
+category: [Adventuring]
+description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).
+---
 # Equipment
 
 * [Adventuring Gear](/adventuring/equipment/adventuring_gear/)      
