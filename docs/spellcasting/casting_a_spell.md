@@ -1,5 +1,5 @@
 ---
-layout: default_spellcasting
+layout: default_plus
 title: Spelcasting
 description: How to cast a spell from the 5th Edition (5e) SRD (System Reference Document).
 ---

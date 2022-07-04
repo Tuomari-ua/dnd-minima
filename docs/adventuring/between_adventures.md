@@ -1,5 +1,5 @@
 ---
-layout: default_adv
+layout: default_plus
 title: Between Adventures
 category: [Adventuring]
 description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).

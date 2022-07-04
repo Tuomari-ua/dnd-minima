@@ -1,5 +1,5 @@
 ---
-layout: default_char
+layout: default_plus
 title: Charset
 description: Rules describing character and creature alignment from the 5th Edition (5e) SRD (System Reference Document).
 ---

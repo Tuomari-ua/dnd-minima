@@ -1,5 +1,5 @@
 ---
-layout: default_gamemaster
+layout: default_plus
 title: Gamemaster Rules
 description: Rules and descriptions for diseases from the 5th Edition (5e) SRD (System Reference Document).
 ---

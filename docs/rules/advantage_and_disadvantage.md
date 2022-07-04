@@ -1,5 +1,5 @@
 ---
-layout: default_rules
+layout: default_plus
 title: Rules
 description: Rules describing the advantage and disadvantage system from the 5th Edition (5e) SRD (System Reference Document).
 ---
