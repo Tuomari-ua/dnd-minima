@@ -1,5 +1,5 @@
 ---
-layout: default_plus
+layout: default_plus2
 title: Adventuring Gear
 category: [Adventuring]
 description: A list of gear for adventuring from the 5th Edition (5e) SRD (System Reference Document).
